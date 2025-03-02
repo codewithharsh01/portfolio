@@ -300,14 +300,14 @@ body {
 }
  
 .responsive {
-    width: 55%;
+    width: 40%;
     height: auto;
     border-top-left-radius: 251px;
     border-top-right-radius: 251px;
     border-bottom-left-radius: 251px;
     border-bottom-right-radius: 251px;
     margin-left: 100px;
-    margin-top: 80px;
+    margin-top: 150px;
 }
 /*about*/
 
