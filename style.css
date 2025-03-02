@@ -295,6 +295,7 @@ body {
     opacity: 0;
     animation: slideUP 1s ease forwards;
     animation-delay: 1s;
+    margin:50px;
     
 }
  
